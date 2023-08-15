@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Tsukimi+Rounded:wght@300&display=swap');
+
+* {
+    align-items: center;
+    text-align: center;
+}
+
+.main {
+    background-color: blanchedalmond;
+    width: 400px;
+    align-items: center;
+    margin-left: 300px;
+
+
+}
+
+.sub-heading {
+    font-family: 'Tsukimi Rounded', sans-serif;
+
+}
+
+.card {
+    background-color: rgb(138, 220, 171);
+    width: 400px;
+    align-items: center;
+    margin-left: 300px;
+}
+
+.add2 {
+    background-color: rgb(134, 202, 202);
+}
